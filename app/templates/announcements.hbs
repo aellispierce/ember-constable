@@ -1,4 +1,7 @@
 <ul>
+  {{#link-to "announcements.new"}}
+    New Announcement
+  {{/link-to}}
   {{#each model as |announcement|}}
     {{#link-to "announcements.announcement" announcement}}
       <li>{{announcement.title}}</li>
