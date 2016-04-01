@@ -13,32 +13,32 @@ Announcement.reopenClass({
   {
     id: 1,
     title: 'Hello',
-    body: 'Goodbye'
+    body: 'Hello, is it me youre looking for',
   },
   {
     id: 2,
     title: 'How are you',
-    body: 'Goodbye',
+    body: 'Cause I wonder where you are',
   },
   {
     id: 3,
     title: 'Its so typical of me to talk about myself, Im sorry',
-    body: 'Goodbye',
+    body: 'And I wonder what you do',
   },
   {
     id: 4,
     title: 'I hope',
-    body: 'Goodbye',
+    body: 'Are you somehwere feeling lonely',
   },
   {
     id: 5,
     title: 'That youre well',
-    body: 'Goodbye',
+    body: 'Or is someone loving you',
   },
   {
     id: 6,
     title: 'Did you ever make it out of that town where nothing ever happened?',
-    body: 'Goodbye',
+    body: 'Tell me how to win your heart',
   },
   ]
 });
